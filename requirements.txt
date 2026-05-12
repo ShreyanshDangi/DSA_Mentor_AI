@@ -1,0 +1,27 @@
+# ── Core ──
+python-dotenv
+
+# ── LangChain ──
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-huggingface
+
+# ── LangGraph ──
+langgraph
+
+# ── Embeddings (local, free) ──
+sentence-transformers
+faiss-cpu
+
+# ── Frontend ──
+streamlit
+
+# ── Data ──
+pandas
+openpyxl
+
+# ── Web scraping ──
+requests
+beautifulsoup4
