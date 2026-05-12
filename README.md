@@ -1,3 +1,6 @@
+# Model Architecture
+<img width="1536" height="815" alt="architecture" src="https://github.com/user-attachments/assets/5b193ab6-f3c1-417a-876d-c533df7755ba" />
+
 # DSA_Mentor_AI
 
 ## 🚀 Overview
