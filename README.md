@@ -305,13 +305,9 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-Developed by:
+Developed by: **Shreyansh Dangi**
 
-**Shreyansh Dangi**
-
-GitHub:
-
-https://github.com/ShreyanshDangi
+GitHub: https://github.com/ShreyanshDangi
 
 ---
 
